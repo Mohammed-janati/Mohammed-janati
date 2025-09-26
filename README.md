@@ -19,10 +19,20 @@ I'm a passionate Software Engineer with experience in building full-stack applic
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-ffff00?style=flat&logo=javascript&logoColor=black)
+![html](https://img.shields.io/badge/html-F05032?style=flat&logo=html&logoColor=white)
+![css](https://img.shields.io/badge/css-800080?style=flat&logo=css&logoColor=white)
+
+**Database:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-336791?style=flat&logo=MySql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6DB33F?style=flat&logo=MongoDB&logoColor=green)
+
 
 **Tools & Platforms:**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-DD0031?style=flat&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -34,13 +44,28 @@ Here are a few highlighted projects:
 
 - 📝 **Text Annotation Platform**  
   Full-stack web app for manual text annotation in NLP pipelines.  
-  _Spring Boot · Angular · Spring Security · Bootstrap_
+    🛠️  _Spring Boot · Angular · Spring Security · Bootstrap_ .mysql
+<hr>
 
+- 📝 **CRM**  
+  building a CRM that facilitate the job of entring and tracking project to replace the manual and basic method with excel ,with integration of data visualisation and ai automation with n8n.  
+   🛠️   _Spring Boot · Angular · Spring Security · Bootstrap_ . n8n . postgresql
+  <hr>
+  
 - 📝 **e-com Platform**  
   Full-stack web app for with secure and scallable architecture.  
-  _Spring Boot · Angular · Spring Security · Bootstrap_
+   🛠️   _Spring Boot · Angular · Spring Security · Bootstrap_ . mysql
+<hr>
 
+- 📝 **watsap clone**  
+  creating a watsap clone with websocket for real time data transfere and http for user registration and login.  
+    🛠️  _Spring Boot · Angular · Spring Security · Bootstrap_ .websocket . mysql . mongoDb
+<hr>
 
+- 📝 **Ai automation workflow ith n8n**  
+  creating a workflow that take a topic like "java vs python" and generate a linkedIn post image and text and post it automaticly on linkedIn.  
+    🛠️  n8n . Flux.1-schnell . google gemini .tavily
+<hr>
 
 ## 📫 Contact
 - 💼 LinkedIn: [linkedin.com/in/mohammed-janati](www.linkedin.com/in/mohammed-janati)
