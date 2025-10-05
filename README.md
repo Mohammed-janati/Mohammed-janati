@@ -62,8 +62,8 @@ Here are a few highlighted projects:
     🛠️  _Spring Boot · Angular · Spring Security · Bootstrap_ .websocket . mysql . mongoDb
 <hr>
 
-- 📝 **Ai automation workflow ith n8n**  
-  creating a workflow that take a topic like "java vs python" and generate a linkedIn post image and text and post it automaticly on linkedIn.  
+- 📝 **Ai automation workflow with n8n**  
+creating an AI automation workflow that generate linkedIn post (image and description ) from a topic given as input then it search the web for the recent information then generate a description and an image that match the topic and post it on linkedIn all automatically .
     🛠️  n8n . Flux.1-schnell . google gemini .tavily
 <hr>
 
