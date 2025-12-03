@@ -47,8 +47,8 @@ Here are a few highlighted projects:
     🛠️  _Spring Boot · Angular · Spring Security · Bootstrap_ .mysql
 <hr>
 
-- 📝 **CRM**  
-  building a CRM that facilitate the job of entring and tracking project to replace the manual and basic method with excel ,with integration of data visualisation and ai automation with n8n.  
+- 📝 **mii CRM**  
+  building a mini CRM that facilitate the job of entring and tracking project to replace the manual and basic method with excel ,with integration of data visualisation and ai automation with n8n.  
    🛠️   _Spring Boot · Angular · Spring Security · Bootstrap_ . n8n . postgresql
   <hr>
   
